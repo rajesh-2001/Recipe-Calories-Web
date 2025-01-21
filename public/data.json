@@ -1,0 +1,102 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Garlic Butter Chicken",
+      "recipe_image": "https://example.com/images/garlic-butter-chicken.jpg",
+      "short_description": "Juicy chicken thighs cooked in garlic butter sauce.",
+      "ingredients": [
+        "550 g chicken thighs",
+        "100 g unsalted butter",
+        "5 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "1 tsp paprika",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Classic Margherita Pizza",
+      "recipe_image": "https://example.com/images/margherita-pizza.jpg",
+      "short_description": "A simple pizza topped with fresh basil and mozzarella.",
+      "ingredients": [
+        "1 pizza dough",
+        "200 g fresh mozzarella",
+        "120 g tomato sauce",
+        "10 g fresh basil leaves",
+        "1 tbsp olive oil",
+        "Salt to taste"
+      ],
+      "preparing_time": "45 min",
+      "calories": "290 calories"
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Vegetable Stir Fry",
+      "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "short_description": "A colorful mix of vegetables sautéed in soy sauce.",
+      "ingredients": [
+        "200 g broccoli florets",
+        "150 g bell peppers (red, yellow, green)",
+        "100 g snap peas",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tsp grated ginger",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "25 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "short_description": "A creamy pasta dish with pancetta and Parmesan.",
+      "ingredients": [
+        "400 g spaghetti",
+        "150 g pancetta",
+        "2 large eggs",
+        "100 g Parmesan cheese, grated",
+        "2 cloves garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "20 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "Greek Salad",
+      "recipe_image": "https://example.com/images/greek-salad.jpg",
+      "short_description": "A fresh and tangy salad with olives, feta, and cucumbers.",
+      "ingredients": [
+        "200 g cucumbers, sliced",
+        "150 g cherry tomatoes, halved",
+        "100 g Kalamata olives",
+        "80 g feta cheese, crumbled",
+        "2 tbsp olive oil",
+        "1 tbsp red wine vinegar",
+        "Salt and oregano to taste"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Chocolate Brownies",
+      "recipe_image": "https://example.com/images/chocolate-brownies.jpg",
+      "short_description": "Rich and fudgy chocolate brownies.",
+      "ingredients": [
+        "200 g dark chocolate",
+        "150 g unsalted butter",
+        "200 g granulated sugar",
+        "3 large eggs",
+        "100 g all-purpose flour",
+        "1 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "preparing_time": "40 min",
+      "calories": "350 calories"
+    }
+  ]
+  
