@@ -1,3 +1,4 @@
+import { MdOutlineAccountCircle } from "react-icons/md";
 const Header = () => {
     return (
         <div>
@@ -5,7 +6,7 @@ const Header = () => {
                 <div className="navbar-start">
                     {/* For Small Image */}
                     <div className="dropdown">
-                        <div tabIndex ="0" role="button" className="btn btn-ghost lg:hidden">
+                        <div tabIndex="0" role="button" className="btn btn-ghost lg:hidden">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 className="h-5 w-5"
@@ -22,20 +23,25 @@ const Header = () => {
                         <ul
                             tabIndex="0"
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-                            <li><a>Item 1</a></li>
-                            <li><a>Item 3</a></li>
+                            <li><a>Home</a></li>
+                            <li><a>Recipe</a></li>
+                            <li><a>About</a></li>
+                            <li><a>Search</a></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">daisyUI</a>
+                    <a className="text-2xl font-bold text-[#150B2B]">Recipe Calories</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
-                        <li><a>Item 3</a></li>
+                    <ul className="menu menu-horizontal px-1 text-base font-normal text-[#150B2BB3]">
+                        <li><a>Home</a></li>
+                        <li><a>Recipe</a></li>
+                        <li><a>About</a></li>
+                        <li><a>Search</a></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
+                <button className="ml-4 bg-[#0BE58A] rounded-[50px] "><MdOutlineAccountCircle className="w-6 h-6"></MdOutlineAccountCircle></button>
                 </div>
             </div>
         </div>
