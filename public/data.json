@@ -2,7 +2,7 @@
     {
       "recipe_id": "001",
       "recipe_name": "Garlic Butter Chicken",
-      "recipe_image": "https://example.com/images/garlic-butter-chicken.jpg",
+      "recipe_image": "https://i.ibb.co.com/7rx0Xbb/Garlic-Butter-Chicken.jpg",
       "short_description": "Juicy chicken thighs cooked in garlic butter sauce.",
       "ingredients": [
         "550 g chicken thighs",
@@ -12,13 +12,13 @@
         "1 tsp paprika",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
+      "preparing_time":30,
+      "calories": 320
     },
     {
       "recipe_id": "002",
       "recipe_name": "Classic Margherita Pizza",
-      "recipe_image": "https://example.com/images/margherita-pizza.jpg",
+      "recipe_image": "https://i.ibb.co.com/DQ4qssb/pizza.jpg",
       "short_description": "A simple pizza topped with fresh basil and mozzarella.",
       "ingredients": [
         "1 pizza dough",
@@ -28,13 +28,13 @@
         "1 tbsp olive oil",
         "Salt to taste"
       ],
-      "preparing_time": "45 min",
-      "calories": "290 calories"
+      "preparing_time": 45,
+      "calories": 290
     },
     {
       "recipe_id": "003",
       "recipe_name": "Vegetable Stir Fry",
-      "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "recipe_image": "https://i.ibb.co.com/R25w0v9/Vegtable.jpg",
       "short_description": "A colorful mix of vegetables sautéed in soy sauce.",
       "ingredients": [
         "200 g broccoli florets",
@@ -45,13 +45,13 @@
         "1 tsp grated ginger",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "25 min",
-      "calories": "200 calories"
+      "preparing_time": 25,
+      "calories": 200
     },
     {
       "recipe_id": "004",
       "recipe_name": "Spaghetti Carbonara",
-      "recipe_image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "recipe_image": "https://i.ibb.co.com/Fxjzx7L/Spaghetti-Carbonara.jpg",
       "short_description": "A creamy pasta dish with pancetta and Parmesan.",
       "ingredients": [
         "400 g spaghetti",
@@ -61,13 +61,13 @@
         "2 cloves garlic, minced",
         "Salt and pepper to taste"
       ],
-      "preparing_time": "20 min",
-      "calories": "450 calories"
+      "preparing_time": 20,
+      "calories": 450
     },
     {
       "recipe_id": "005",
       "recipe_name": "Greek Salad",
-      "recipe_image": "https://example.com/images/greek-salad.jpg",
+      "recipe_image": "https://i.ibb.co.com/TPMcNYT/Authentic-Greek-salad-horiatiki-featured.jpg",
       "short_description": "A fresh and tangy salad with olives, feta, and cucumbers.",
       "ingredients": [
         "200 g cucumbers, sliced",
@@ -78,13 +78,13 @@
         "1 tbsp red wine vinegar",
         "Salt and oregano to taste"
       ],
-      "preparing_time": "15 min",
-      "calories": "180 calories"
+      "preparing_time": 15,
+      "calories": 180
     },
     {
       "recipe_id": "006",
       "recipe_name": "Chocolate Brownies",
-      "recipe_image": "https://example.com/images/chocolate-brownies.jpg",
+      "recipe_image": "https://i.ibb.co.com/qBYXWfZ/Chocolate-Brownies.jpg",
       "short_description": "Rich and fudgy chocolate brownies.",
       "ingredients": [
         "200 g dark chocolate",
@@ -95,8 +95,8 @@
         "1 tsp vanilla extract",
         "Pinch of salt"
       ],
-      "preparing_time": "40 min",
-      "calories": "350 calories"
+      "preparing_time": 40,
+      "calories": 350
     }
   ]
   
