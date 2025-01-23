@@ -1,3 +1,4 @@
+import Table from "../OrderMeasurementPart/Table";
 import AllRecipes from "./AllRecipes";
 
 const RecipeSection = () => {
@@ -8,11 +9,13 @@ const RecipeSection = () => {
                 <p className="text-base font-normal md:w-2/3 mx-auto text-[#150B2B99]">Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque. </p>
             </div>
 
-            <div className="flex mt-12">
-                <div>
+            <div className="flex flex-col md:flex-row mt-12">
+                <div className="md:w-2/3">
                     <AllRecipes></AllRecipes>
                 </div>
-                <div></div>
+                <div>
+                    <Table></Table>
+                </div>
             </div>
         </div>
     );
