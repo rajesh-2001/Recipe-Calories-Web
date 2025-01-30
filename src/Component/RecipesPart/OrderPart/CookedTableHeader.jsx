@@ -1,15 +1,13 @@
-const Table = () => {
+const CookedTableHeader = () => {
     return (
         <div className="overflow-x-auto">
             <table className="table">
-                {/* head */}
                 <thead>
                     <tr className="text-[#878787] text-base font-medium mt-6">
                         <th className="w-[7%]"></th>
-                        <th className="w-[25%]">Name</th>
-                        <th className="w-[17%]">Time</th>
-                        <th className="w-[20%]">Calories</th>
-                        <th> </th>
+                        <th className="w-[32%]">Name</th>
+                        <th className="w-[25%]">Time</th>
+                        <th className="w-[25%]">Calories</th>
                     </tr>
                 </thead>
             </table>
@@ -17,4 +15,4 @@ const Table = () => {
     );
 };
 
-export default Table;
+export default CookedTableHeader;
